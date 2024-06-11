@@ -1,0 +1,10 @@
+*** Using Compiler 'V5.06 update 5 (build 528)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'MOTOR_CPP'
+compiling Broadcast.cpp...
+Warning: C3910W: Old syntax, please use '--c99'.
+Warning: C3910W: Old syntax, please use '--cpp11'.
+linking...
+Program Size: Code=44100 RO-data=1420 RW-data=344 ZI-data=23584  
+FromELF: creating hex file...
+"MOTOR_CPP\MOTOR_CPP.axf" - 0 Error(s), 0 Warning(s).
+Build Time Elapsed:  00:00:02
